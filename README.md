@@ -153,4 +153,4 @@ The server uses:
 
 ## License
 
-MIT
+This project is not yet licensed. Please contact the author for usage permissions.
